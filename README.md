@@ -1,2 +1,2 @@
 # safety-induction
-It's a template for presenting safety in a company
+This is a template for the presentation of security in a company made with bootstrap and custom JS.
